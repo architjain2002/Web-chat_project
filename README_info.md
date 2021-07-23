@@ -4,7 +4,7 @@ Hello guys!!!
 ================================
 Some information:
 This projects intention was basically the usage of socket.io (how to build CONNECTION between a client and the server..)
-Yeah the css could be made better and the website could be made responsive maybe later I might make it responsive(too lazy to add a media tag xD)
+Yeah the css could be made better and the website could be made responsive maybe later I might make it responsive(too lazy to add a media query tag tbh xD)
 
 *I use ejs as my template engine in my backend.*
 

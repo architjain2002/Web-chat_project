@@ -3,7 +3,7 @@ This is an online web chat application using socket.io and nodejs.
 Hello guys!!! 
 ================================
 Some information:
-This projects intention was basically the usage of socket.io (how to build CONNECTION betwwen a client and the server..)
+This projects intention was basically the usage of socket.io (how to build CONNECTION between a client and the server..)
 Yeah the css could be made better and the website could be made responsive maybe later I might make it responsive(too lazy to add a media tag xD)
 
 *I use ejs as my template engine in my backend.*

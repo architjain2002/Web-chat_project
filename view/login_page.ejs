@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebChat</title>
+    <script defer src="http://192.168.1.105/socket.io/socket.io.js"></script>
+    <script defer src="client.js"></script>
+    <link rel="stylesheet" href="login_css.css">
+</head>
+<body id = "body">
+    <div id= "header">
+        <p id= "header_text">
+            WebChat
+        </p>
+    </div>
+    <div id="login_container">
+        <p id="username">Username: </p>
+        <input type="text" name="name" id="text_username">
+        <input type="button" onclick="send_username(); location.href = '/chatpage';" value="Submit" id="btn">
+    </div>
+</body>
+</html>

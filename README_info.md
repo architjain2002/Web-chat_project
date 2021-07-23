@@ -8,5 +8,5 @@ Yeah the css could be made better and the website could be made responsive maybe
 
 *I use ejs as my template engine in my backend.*
 
-*this project was for my practice while I was in my learning phase*
+*This project was for my practice while I was in my learning phase*
 
